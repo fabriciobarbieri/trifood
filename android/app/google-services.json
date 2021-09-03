@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827482351478",
+    "firebase_url": "https://trifood-flutter.firebaseio.com",
+    "project_id": "trifood-flutter",
+    "storage_bucket": "trifood-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827482351478:android:960f21e577da00f1",
+        "android_client_info": {
+          "package_name": "br.com.tridev.trifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827482351478-t1t89i16qd81c8686983d7m0tc4pumvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD01Tr3klqdHF55s9FqSM1Cq8dTfVRLAZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827482351478-t1t89i16qd81c8686983d7m0tc4pumvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
